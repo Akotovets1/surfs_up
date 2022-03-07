@@ -7,10 +7,10 @@ By creating a query that captures the temperatures specifically for the June and
 ## Results
 
 June temperature statistics:
-![Pic 1](https://github.com/Akotovets1/surfs_up/Step_4.png)
+![Pic 1](https://github.com/Akotovets1/surfs_up/blob/main/Step_4.png)
 
 December temperature statistics:
-![Pic 2](https://github.com/Akotovets1/surfs_up/Step_9.png)
+![Pic 2](https://github.com/Akotovets1/surfs_up/blob/main/Step_9.png)
 
 ### Comparing the temperatures for the two months, we can see the following:
 
